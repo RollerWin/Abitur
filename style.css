@@ -13,7 +13,7 @@ body {
   margin: 20px auto;
   border-collapse: collapse;
   width: 65%;
-  border-radius: 15px;
+  height: 65%;
 }
 
 .form_table td {
